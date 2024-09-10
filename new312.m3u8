@@ -377,4 +377,71 @@ http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7710
 http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7693
 #EXTINF:-1 tvg-id="LifetimeEast.us" tvg-name="Lifetime HD US" tvg-logo="" group-title="United States",Lifetime HD US
 http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7745
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="Showtime 2 HD US" tvg-logo="" group-title="United States",Showtime 2 HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7737
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="Showtime 2 US" tvg-logo="" group-title="United States",Showtime 2 US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/534
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="Showtime East HD US" tvg-logo="" group-title="United States",Showtime East HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7736
+#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-name="Showtime FHD US" tvg-logo="" group-title="United States",Showtime FHD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/535
+#EXTINF:-1 tvg-id="ShowtimeShowcaseEast.us" tvg-name="Showtime Showcase HD US" tvg-logo="" group-title="United States",Showtime Showcase HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7735
+#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-name="Showtime West US" tvg-logo="" group-title="United States",Showtime West US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/485
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network HD US" tvg-logo="" group-title="United States",Paramount Network HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/518
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network US" tvg-logo="" group-title="United States",Paramount Network US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7727
+#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema US" tvg-logo="" group-title="United States",Starz Cinema US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/536
+#EXTINF:-1 tvg-id="Starz Comedy - Pacific US" tvg-name="Starz Comedy US" tvg-logo="" group-title="United States",Starz Comedy US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/537
+#EXTINF:-1 tvg-id="Starz Edge - Pacific US" tvg-name="Starz Edge HD US" tvg-logo="" group-title="United States",Starz Edge HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/519
+#EXTINF:-1 tvg-id="Starz Edge - Pacific US" tvg-name="Starz Edge US" tvg-logo="" group-title="United States",Starz Edge US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7780
+#EXTINF:-1 tvg-id="Starz Encore - Pacific US" tvg-name="Starz Encore HD US" tvg-logo="" group-title="United States",Starz Encore HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7731
+#EXTINF:-1 tvg-id="Starz Encore - Pacific US" tvg-name="Starz Encore US" tvg-logo="" group-title="United States",Starz Encore US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/538
+#EXTINF:-1 tvg-id="Syfy - Pacific Feed US" tvg-name="SyFy HD US" tvg-logo="" group-title="United States",SyFy HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/548
+#EXTINF:-1 tvg-id="Syfy - Pacific Feed US" tvg-name="SyFy US" tvg-logo="" group-title="United States",SyFy US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7779
+#EXTINF:-1 tvg-id="TBS - Pacific US" tvg-name="TBS HD US" tvg-logo="" group-title="United States",TBS HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/578
+#EXTINF:-1 tvg-id="TNT - Pacific Feed US" tvg-name="TNT HD US" tvg-logo="http://tugapt.com/picons/tntse.png" group-title="United States",TNT HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/549
+#EXTINF:-1 tvg-id="Travel - West US" tvg-name="Travel Channel HD US" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/travel-channel-uk.png" group-title="United States",Travel Channel HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7694
+#EXTINF:-1 tvg-id="truTV - Pacific US" tvg-name="Tru TV HD US" tvg-logo="" group-title="United States",Tru TV HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7705
+#EXTINF:-1 tvg-id="Fight Network US" tvg-name="UFC Fight Pass US" tvg-logo="" group-title="United States",UFC Fight Pass US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/6421
+#EXTINF:-1 tvg-id="USA Network - Pacific US" tvg-name="USA Network (backup) HD US" tvg-logo="" group-title="United States",USA Network (backup) HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/520
+#EXTINF:-1 tvg-id="USA Network - Pacific US" tvg-name="USA HD US" tvg-logo="" group-title="United States",USA HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7729
+#EXTINF:-1 tvg-id="USA Network - Pacific US" tvg-name="USA Network HD US" tvg-logo="" group-title="United States",USA Network HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/547
+#EXTINF:-1 tvg-id="Univision - Pacific Feed US" tvg-name="Univision HD US" tvg-logo="" group-title="United States",Univision HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7704
+#EXTINF:-1 tvg-id="VH1 - Pacific Feed US" tvg-name="VH1 Classic US" tvg-logo="" group-title="United States",VH1 Classic US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/491
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="United States",WWE HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/562
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network FHD US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="United States",WWE Network FHD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7544
+#EXTINF:-1 tvg-id="" tvg-name="WWE US" tvg-logo="https://static.epg.best/us/WWE.us.png" group-title="United States",WWE US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/7778
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema US" tvg-logo="http://tugapt.com/picons/zeecinema.png" group-title="United States",Zee Cinema US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/2792
+#EXTINF:-1 tvg-id="" tvg-name="NBA Live 1 HD US" tvg-logo="" group-title="United States",NBA Live 1 HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/8538
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="Smithsonian Channel US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" group-title="United States",Smithsonian Channel US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/41479
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business HD US" tvg-logo="" group-title="United States",Fox Business HD US
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/78205
+
 
