@@ -1,0 +1,104 @@
+#EXTM3U refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="##########   United Kingdom   ##########" tvg-logo="" group-title="United Kingdom",##########   United Kingdom   ##########
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/2524
+#EXTINF:-1 tvg-id="E4 Extra UK" tvg-name="E4 Extra UK" tvg-logo="" group-title="United Kingdom",E4 Extra UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/113641
+#EXTINF:-1 tvg-id="Magic UK" tvg-name="Magic TV UK" tvg-logo="" group-title="United Kingdom",Magic TV UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/113640
+#EXTINF:-1 tvg-id="3e UK" tvg-name="Virgin two HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png?raw=true" group-title="United Kingdom",Virgin two HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1790
+#EXTINF:-1 tvg-id="4Music UK" tvg-name="4Music UK" tvg-logo="http://tugapt.com/picons/4musicuk.png" group-title="United Kingdom",4Music UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1936
+#EXTINF:-1 tvg-id="4seven UK" tvg-name="4Seven UK" tvg-logo="http://tugapt.com/picons/4sevenuk.png" group-title="United Kingdom",4Seven UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1937
+#EXTINF:-1 tvg-id="5STAR UK" tvg-name="5Star UK" tvg-logo="http://tugapt.com/picons/5staruk.png" group-title="United Kingdom",5Star UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1963
+#EXTINF:-1 tvg-id="5USA UK" tvg-name="5USA UK" tvg-logo="http://tugapt.com/picons/5usauk.png" group-title="United Kingdom",5USA UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1964
+#EXTINF:-1 tvg-id="AMC from BT UK" tvg-name="AMC From BT UK" tvg-logo="http://tugapt.com/picons/amcfrombtuk.png" group-title="United Kingdom",AMC From BT UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1892
+#EXTINF:-1 tvg-id="at the races UK" tvg-name="S Sports Racing FHD UK" tvg-logo="http://tugapt.com/picons/attheracesuk.png" group-title="United Kingdom",S Sports Racing FHD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1801
+#EXTINF:-1 tvg-id="Alibi UK" tvg-name="Alibi UK" tvg-logo="http://tugapt.com/picons/alibiuk.png" group-title="United Kingdom",Alibi UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1916
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet +1 UK" tvg-logo="http://tugapt.com/picons/animalplanetuk.png" group-title="United Kingdom",Animal Planet +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1878
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet UK" tvg-logo="http://tugapt.com/picons/animalplanetuk.png" group-title="United Kingdom",Animal Planet UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1879
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four HD UK" tvg-logo="http://tugapt.com/picons/bbcfourhduk.png" group-title="United Kingdom",BBC Four HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1990
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four UK" tvg-logo="http://tugapt.com/picons/bbcfouruk.png" group-title="United Kingdom",BBC Four UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1989
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News HD UK" tvg-logo="http://tugapt.com/picons/bbcnewshduk.png" group-title="United Kingdom",BBC News HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1777
+#EXTINF:-1 tvg-id="Talk TV UK" tvg-name="TalkTV UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/talk-tv-uk.png?raw=true" group-title="United Kingdom",TalkTV UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/105929
+#EXTINF:-1 tvg-id="BBC One CI UK" tvg-name="BBC One Channel Islands UK" tvg-logo="http://tugapt.com/picons/bbconechannelislandsuk.png" group-title="United Kingdom",BBC One Channel Islands UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1776
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="http://tugapt.com/picons/bbconehduk.png" group-title="United Kingdom",BBC One HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1998
+#EXTINF:-1 tvg-id="BBC One NI HD UK" tvg-name="BBC One Northern Ireland UK" tvg-logo="http://tugapt.com/picons/bbconenorthernirelanduk.png" group-title="United Kingdom",BBC One Northern Ireland UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/2000
+#EXTINF:-1 tvg-id="BBC One Oxford UK" tvg-name="BBC One Oxford UK" tvg-logo="http://tugapt.com/picons/bbconeoxforduk.png" group-title="United Kingdom",BBC One Oxford UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1775
+#EXTINF:-1 tvg-id="BBC One Scot UK" tvg-name="BBC One Scotland UK" tvg-logo="http://tugapt.com/picons/bbconescotlanduk.png" group-title="United Kingdom",BBC One Scotland UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1786
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One UK" tvg-logo="http://tugapt.com/picons/bbconeuk.png" group-title="United Kingdom",BBC One UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1997
+#EXTINF:-1 tvg-id="BBC One Wales UK" tvg-name="BBC One Wales UK" tvg-logo="http://tugapt.com/picons/bbconewalesuk.png" group-title="United Kingdom",BBC One Wales UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/2002
+#EXTINF:-1 tvg-id="BBC One Yorks UK" tvg-name="BBC One Yorks UK" tvg-logo="http://tugapt.com/picons/bbconeyorksuk.png" group-title="United Kingdom",BBC One Yorks UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1774
+#EXTINF:-1 tvg-id="BBC Parliament UK" tvg-name="BBC Parliament UK" tvg-logo="http://tugapt.com/picons/bbcparliamentuk.png" group-title="United Kingdom",BBC Parliament UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/2003
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two HD UK" tvg-logo="http://tugapt.com/picons/bbctwohduk.png" group-title="United Kingdom",BBC Two HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1995
+#EXTINF:-1 tvg-id="BBC Two Scotland UK" tvg-name="BBC Two Scotland UK" tvg-logo="http://tugapt.com/picons/bbctwoscotlanduk.png" group-title="United Kingdom",BBC Two Scotland UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/2004
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="http://tugapt.com/picons/bbctwouk.png" group-title="United Kingdom",BBC Two UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1994
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-logo="http://tugapt.com/picons/bbcworldnewsuk.png" group-title="United Kingdom",BBC World News UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/2006
+#EXTINF:-1 tvg-id="BET UK" tvg-name="BET UK" tvg-logo="http://tugapt.com/picons/betuk.png" group-title="United Kingdom",BET UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1961
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="TNT Sports 1 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/369
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="TNT Sports 1 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 1 HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/370
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="TNT Sports 1 FHD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 1 FHD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/5716
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="TNT Sports 2 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 2 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/367
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="TNT Sports 2 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 2 HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/368
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="TNT Sports 2 FHD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 2 FHD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/5715
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="TNT Sports 3 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 3 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/365
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="TNT Sports 3 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 3 HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/366
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="TNT Sports 3 FHD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 3 FHD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/5714
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports5_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 5 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1818
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 6 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports6_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 6 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1817
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 7 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports7_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 7 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1816
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 8 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports8_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 8 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1815
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 9 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports9_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 9 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1814
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="TNT Sports 4 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 4 HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1743
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="TNT Sports 4 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 4 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1819
+#EXTINF:-1 tvg-id="Baby TV UK" tvg-name="Baby TV UK" tvg-logo="http://tugapt.com/picons/babytvuk.png" group-title="United Kingdom",Baby TV UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1852
+#EXTINF:-1 tvg-id="Blaze UK" tvg-name="Blaze UK" tvg-logo="http://tugapt.com/picons/blazeuk.png" group-title="United Kingdom",Blaze UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1787
+#EXTINF:-1 tvg-id="Bloomberg TV UK" tvg-name="Bloomberg TV UK" tvg-logo="http://tugapt.com/picons/bloombergtvuk.png" group-title="United Kingdom",Bloomberg TV UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1770
