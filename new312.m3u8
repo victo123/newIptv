@@ -102,3 +102,79 @@ http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1852
 http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1787
 #EXTINF:-1 tvg-id="Bloomberg TV UK" tvg-name="Bloomberg TV UK" tvg-logo="http://tugapt.com/picons/bloombergtvuk.png" group-title="United Kingdom",Bloomberg TV UK
 http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1770
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 HD UK" tvg-logo="http://tugapt.com/picons/channel4hduk.png" group-title="United Kingdom",Channel 4 HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1970
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK" tvg-logo="http://tugapt.com/picons/channel4uk.png" group-title="United Kingdom",Channel 4 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1972
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 HD UK" tvg-logo="http://tugapt.com/picons/channel5hduk.png" group-title="United Kingdom",Channel 5 HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1967
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK" tvg-logo="http://tugapt.com/picons/channel5uk.png" group-title="United Kingdom",Channel 5 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1968
+#EXTINF:-1 tvg-id="E! UK" tvg-name="E! UK" tvg-logo="http://tugapt.com/picons/euk.png" group-title="United Kingdom",E! UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1934
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 +1 UK" tvg-logo="http://tugapt.com/picons/e4uk.png" group-title="United Kingdom",E4 +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1965
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 UK" tvg-logo="http://tugapt.com/picons/e4uk.png" group-title="United Kingdom",E4 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1966
+#EXTINF:-1 tvg-id="Eden UK" tvg-name="Eden +1 UK" tvg-logo="http://tugapt.com/picons/edenuk.png" group-title="United Kingdom",Eden +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1946
+#EXTINF:-1 tvg-id="Eden UK" tvg-name="Eden UK" tvg-logo="http://tugapt.com/picons/edenuk.png" group-title="United Kingdom",Eden UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1935
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 HD UK" tvg-logo="http://tugapt.com/picons/eurosport1hduk.png" group-title="United Kingdom",Eurosport 1 HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1812
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 HD UK" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="United Kingdom",Eurosport 2 HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1811
+#EXTINF:-1 tvg-id="FOX News UK" tvg-name="FOX News UK" tvg-logo="http://tugapt.com/picons/foxnewsuk.png" group-title="United Kingdom",FOX News UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1760
+#EXTINF:-1 tvg-id="Film4 UK" tvg-name="Film4 UK" tvg-logo="http://tugapt.com/picons/film4uk.png" group-title="United Kingdom",Film4 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1830
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network +1 UK" tvg-logo="http://tugapt.com/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1941
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network UK" tvg-logo="http://tugapt.com/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1942
+#EXTINF:-1 tvg-id="" tvg-name="World Of FreeSports HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true" group-title="United Kingdom VIP",World Of FreeSports HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/50437
+#EXTINF:-1 tvg-id="GINX eSports TV UK" tvg-name="GINX eSports TV UK" tvg-logo="http://tugapt.com/picons/ginxesportstvuk.png" group-title="United Kingdom",GINX eSports TV UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1758
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD +1 UK" tvg-logo="http://tugapt.com/picons/golduk.png" group-title="United Kingdom",GOLD +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1947
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD UK" tvg-logo="http://tugapt.com/picons/golduk.png" group-title="United Kingdom",GOLD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1915
+#EXTINF:-1 tvg-id="H2 UK" tvg-name="Sky History 2 UK" tvg-logo="http://tugapt.com/picons/h2uk.png" group-title="United Kingdom",Sky History 2 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1871
+#EXTINF:-1 tvg-id="Hillsong UK" tvg-name="TBN UK" tvg-logo="http://tugapt.com/picons/hillsongchanneluk.png" group-title="United Kingdom",TBN UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1757
+#EXTINF:-1 tvg-id="History UK" tvg-name="History +1 UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/history-channel-plus-uk.png?raw=true" group-title="United Kingdom",History +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1866
+#EXTINF:-1 tvg-id="History UK" tvg-name="History UK" tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="United Kingdom",History UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1867
+#EXTINF:-1 tvg-id="Home UK" tvg-name="HGTV +1 UK" tvg-logo="http://tugapt.com/picons/homeuk.png" group-title="United Kingdom",HGTV +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1869
+#EXTINF:-1 tvg-id="Home UK" tvg-name="Home UK" tvg-logo="http://tugapt.com/picons/homeuk.png" group-title="United Kingdom",Home UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1870
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel +1 UK" tvg-logo="http://tugapt.com/picons/horrorchanneluk.png" group-title="United Kingdom",Horror Channel +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1926
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel UK" tvg-logo="http://tugapt.com/picons/horrorchanneluk.png" group-title="United Kingdom",Horror Channel UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1825
+#EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV +1 UK" tvg-logo="http://tugapt.com/picons/itvplus1uk.png" group-title="United Kingdom",ITV +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1984
+#EXTINF:-1 tvg-id="ITV HD UK" tvg-name="ITV 1 UK" tvg-logo="http://tugapt.com/picons/itvuk.png" group-title="United Kingdom",ITV 1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1985
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 +1 UK" tvg-logo="http://tugapt.com/picons/itv2plus1uk.png" group-title="United Kingdom",ITV2 +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1981
+#EXTINF:-1 tvg-id="ITV2 HD UK" tvg-name="ITV2 HD UK" tvg-logo="http://tugapt.com/picons/itv2hduk.png" group-title="United Kingdom",ITV2 HD UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1983
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 UK" tvg-logo="http://tugapt.com/picons/itv2uk.png" group-title="United Kingdom",ITV2 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1982
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 +1 UK" tvg-logo="http://tugapt.com/picons/itv3plus1uk.png" group-title="United Kingdom",ITV3 +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1978
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 UK" tvg-logo="http://tugapt.com/picons/itv3uk.png" group-title="United Kingdom",ITV3 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1979
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 +1 UK" tvg-logo="http://tugapt.com/picons/itv4plus1uk.png" group-title="United Kingdom",ITV4 +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1975
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 UK" tvg-logo="http://tugapt.com/picons/itv4uk.png" group-title="United Kingdom",ITV4 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1976
+#EXTINF:-1 tvg-id="ITVBe UK" tvg-name="ITVBe +1 UK" tvg-logo="http://tugapt.com/picons/itvbeplus1uk.png" group-title="United Kingdom",ITVBe +1 UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1974
+#EXTINF:-1 tvg-id="Investigation Discovery UK" tvg-name="Investigation Discovery UK" tvg-logo="http://tugapt.com/picons/investigationdiscoveryuk.png" group-title="United Kingdom",Investigation Discovery UK
+http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1883
