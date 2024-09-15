@@ -2,8 +2,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="##########   United Kingdom   ##########" tvg-logo="" group-title="United Kingdom",##########   United Kingdom   ##########
-http://fastopen.live:8080/MusaSabri/LN9vuShk6c/2524
 #EXTINF:-1 tvg-id="E4 Extra UK" tvg-name="E4 Extra UK" tvg-logo="" group-title="United Kingdom",E4 Extra UK
 http://fastopen.live:8080/MusaSabri/LN9vuShk6c/113641
 #EXTINF:-1 tvg-id="Magic UK" tvg-name="Magic TV UK" tvg-logo="" group-title="United Kingdom",Magic TV UK
@@ -179,8 +177,6 @@ http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1974
 #EXTINF:-1 tvg-id="Investigation Discovery UK" tvg-name="Investigation Discovery UK" tvg-logo="http://tugapt.com/picons/investigationdiscoveryuk.png" group-title="United Kingdom",Investigation Discovery UK
 http://fastopen.live:8080/MusaSabri/LN9vuShk6c/1883
 
-#EXTINF:-1 tvg-id="" tvg-name="##########   United States   ##########" tvg-logo="" group-title="United States",##########   United States   ##########
-http://fastopen.live:8080/MusaSabri/LN9vuShk6c/2528
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV HD US" tvg-logo="" group-title="United States",Newsmax TV HD US
 http://fastopen.live:8080/MusaSabri/LN9vuShk6c/90932
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD US" tvg-logo="" group-title="United States",A&E HD US
